@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "title": "AutoCAD Agent — AI-Powered Floor Plan Generation",
+        "category": "AI Agent",
+        "description": "LangGraph agent that converts natural language prompts into AutoCAD floor plans",
+        "cover_image": "https://github.com/user-attachments/assets/0277b6ef-d4e3-4272-9db0-f3b5e6b30021"
+    },
+    {
+        "id": "2",
+        "title": "Trained Transformer from Scratch",
+        "category": "AI Agent",
+        "description": "Built a 70M-parameter transformer in PyTorch trained on 1.4B tokens",
+        "cover_image": "https://cdn-uploads.huggingface.co/production/uploads/67c3da37fb3123b861ed72fe/bRUXXHFkr-BSDk87XPWjx.png"
+    },
+    {
+        "id": "3",
+        "title": "  Neuro Builder — No-Code Neural Network Designer",
+        "category": "AI Agent",
+        "description": "No-code neural network builder for interactive model design and training",
+        "cover_image": "https://github.com/user-attachments/assets/7c1e84ad-ad0b-4007-ae13-a4144225aba8"
+    }
+]

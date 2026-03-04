@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "platform": "GitHub",
+        "url": "https://github.com/JainilPatel2502",
+        "icon": "FaGithub"
+    },
+    {
+        "id": "2",
+        "platform": "LinkedIn",
+        "url": "https://www.linkedin.com/in/jainil-patel-952564278/",
+        "icon": "FaLinkedin"
+    },
+    {
+        "id": "4",
+        "platform": "Hugging Face",
+        "url": "https://huggingface.co/Jainil2502",
+        "icon": "SiHuggingface"
+    },
+    {
+        "id": "5",
+        "platform": "LeetCode",
+        "url": "https://leetcode.com/u/Jainil_Patel2502/",
+        "icon": "SiLeetcode"
+    },
+    {
+        "id": "6",
+        "platform": "Resume",
+        "url": "https://drive.google.com/file/d/1E-AjqWGIx5u0ZRwsUC-Z07kfBxFTuwbY/view?usp=sharing",
+        "icon": "FaFileDownload"
+    }
+]

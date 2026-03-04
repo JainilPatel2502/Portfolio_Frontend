@@ -1,0 +1,33 @@
+[
+    {
+        "category": "Frontend",
+        "skills": [
+            "HTML",
+            "CSS",
+            "JS",
+            "React",
+            "Tailwind CSS"
+        ]
+    },
+    {
+        "category": "Languages",
+        "skills": [
+            "Python",
+            "Node.js",
+            "Express",
+            "Java"
+        ]
+    },
+    {
+        "category": "Tools & Others",
+        "skills": [
+            "Git",
+            "Docker",
+            "AWS",
+            "Figma",
+            "PyTorch",
+            "Langchain",
+            "Langgraph"
+        ]
+    }
+]

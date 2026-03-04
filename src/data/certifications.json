@@ -1,0 +1,10 @@
+[
+    {
+        "id": "aws-saa",
+        "name": "AWS Certified Solutions Architect",
+        "level": "Associate",
+        "issuer": "Amazon Web Services",
+        "image": "aws-certified-solutions-architect-associate.png",
+        "verifyUrl": "https://www.credly.com/badges/37534d8e-d495-4f50-96f1-a7837cbf5ed0/public_url"
+    }
+]
