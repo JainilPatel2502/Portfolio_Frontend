@@ -9,7 +9,7 @@
             "CAD primitives for walls, doors, windows, stairs with automatic wall-cutting and junction-cleaning"
         ],
         "description": "Built a LangGraph-based AI agent that transforms natural language architectural prompts into AutoCAD floor plans. Implemented reusable CAD primitives (walls, doors, windows, stairs) along with automatic wall cutting and junction cleaning utilities. Integrated Gemini LLM for architectural planning and Python code generation, executed inside AutoCAD using COM automation via pyautocad.",
-        "video": "./src/assets/videos/Autocad-vdo.mp4",
+        "video": "/assets/videos/Autocad-vdo.mp4",
         "gallery": [
             "https://github.com/user-attachments/assets/0277b6ef-d4e3-4272-9db0-f3b5e6b30021",
             "https://github.com/user-attachments/assets/9d11bf0b-e4ab-4c7c-a374-0e95611d47b3",
@@ -31,7 +31,7 @@
         "video": "",
         "gallery": [
             "https://cdn-uploads.huggingface.co/production/uploads/67c3da37fb3123b861ed72fe/aB2grMxLi8eFLrObIOg59.png",
-            "./src/assets/images/hg.png"
+            "/assets/images/hg.png"
         ],
         "link": "#",
         "repo": "https://github.com/JainilPatel2502/minireasoner-70m"

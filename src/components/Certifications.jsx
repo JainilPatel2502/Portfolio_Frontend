@@ -1,6 +1,12 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import certifications from '../data/certifications.json';
+import awsSaaBadge from '../assets/images/aws-certified-solutions-architect-associate.png';
+
+// Map JSON image filenames to imported assets
+const certImages = {
+  'aws-certified-solutions-architect-associate.png': awsSaaBadge,
+};
 
 const Certifications = () => {
   return (
@@ -46,7 +52,7 @@ const Certifications = () => {
                 {/* Badge image */}
                 <div className="flex justify-center">
                   <img
-                    src={`src/assets/images/${cert.image}`}
+                    src={certImages[cert.image]}
                     alt={`${cert.name} - ${cert.level}`}
                     className="w-[288px] h-[288px] object-contain drop-shadow-[0_0_30px_rgba(59,130,246,0.3)]"
                   />
