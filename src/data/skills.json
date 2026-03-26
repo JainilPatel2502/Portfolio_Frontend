@@ -13,6 +13,7 @@
         "category": "Languages",
         "skills": [
             "Python",
+            "FastAPI",
             "Node.js",
             "Express",
             "Java"
@@ -24,7 +25,6 @@
             "Git",
             "Docker",
             "AWS",
-            "Figma",
             "PyTorch",
             "Langchain",
             "Langgraph"
