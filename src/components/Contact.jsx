@@ -12,7 +12,7 @@ const Contact = () => {
 Looking for a job that distracts me even more.”
         </p>
         <a
-          href="mailto:your.email@example.com"
+          href="mailto:jainil.patel2502@gmail.com"
           className="inline-block px-8 py-4 bg-[#a3e635] text-black rounded-full font-bold text-lg hover:bg-[#8cc629] transition-all hover:-translate-y-1"
         >
           Say Hello
